@@ -6,3 +6,4 @@ __pycache__/
 # Ignore IDE files
 .idea/
 
+2_2_YOLO/weights/yolov3.weights
