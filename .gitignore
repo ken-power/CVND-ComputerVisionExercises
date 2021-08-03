@@ -7,3 +7,6 @@ __pycache__/
 .idea/
 
 2_2_YOLO/weights/yolov3.weights
+
+# Don't store the FashionMNIST (or other) data in GitHub
+1_5_CNN_Layers/data/
